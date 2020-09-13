@@ -1,0 +1,13 @@
+converte_NLP;com_stemizacao;testa_com_Neutra;nrMaxTestes;nrSalto
+CountVectorizer;SIM;SIM
+CountVectorizer;SIM;NAO
+CountVectorizer;NAO;NAO
+CountVectorizer;NAO;SIM
+TF_IDF;SIM;SIM
+TF_IDF;SIM;NAO
+TF_IDF;NAO;NAO
+TF_IDF;NAO;SIM
+DOC2VEC;SIM;SIM
+DOC2VEC;SIM;NAO
+DOC2VEC;NAO;NAO
+DOC2VEC;NAO;SIM 
